@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HavaDurumu</string>
+    <string-array name="sehirler">
+        <item>Adana</item>
+        <item>Ankara</item>
+        <item>Antalya</item>
+        <item>Aydın</item>
+        <item>Balıkesir</item>
+        <item>Bursa</item>
+        <item>Denizli</item>
+        <item>Diyarbakır</item>
+        <item>Erzurum</item>
+        <item>Eskişehir</item>
+        <item>Gaziantep</item>
+        <item>Hatay</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Kahramanmaraş</item>
+        <item>Kayseri</item>
+        <item>Kocaeli</item>
+        <item>Konya</item>
+        <item>Malatya</item>
+        <item>Manisa</item>
+        <item>Mardin</item>
+        <item>Mersin</item>
+        <item>Muğla</item>
+        <item>Ordu</item>
+        <item>Sakarya</item>
+        <item>Samsun</item>
+        <item>Şanlıurfa</item>
+        <item>Tekirdağ</item>
+        <item>Trabzon</item>
+        <item>Van</item>
+        <item>Tekirdağ</item>
+        <item>Tokyo</item>
+        <item>Paris</item>
+        <item>Madrid</item>
+        <item>Moscow</item>
+        <item>Roma</item>
+        <item>London</item>
+    </string-array>
+</resources>
